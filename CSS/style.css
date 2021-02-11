@@ -1,0 +1,256 @@
+
+body {
+    font-family: roboto, sans-serif;
+    margin: 0%;
+
+
+}
+
+ul {
+    padding: 0;
+}
+
+address {
+    font-style: normal;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+.navigation-class, .navigation-link, .container-navigation-items, .navigation {
+
+    display: flex;
+    align-items: center;
+}
+
+
+.logo {
+    
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+    color: #2196F3;
+}
+.logo-second-part {
+    font-weight: bold;
+    color: #000;
+}
+.studio-item, .port-item, .contacts-item, .nav-link, .nav-tel-link {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14px;
+    letter-spacing: 0.02em;
+}
+
+.navigation-class {
+    margin: 32px 0 32px 93px;
+    list-style: none;
+
+}
+a { text-decoration: none;
+
+}
+.studio-item{
+    color: #2196F3;
+
+}
+.port, .contacts {
+    margin-left: 50px;
+
+}
+.port-item, .contacts-item {
+    color: black;
+}
+
+
+.navigation-link {
+    margin-left: auto;
+    list-style: none;
+    align-items: center;
+}
+.nav-link {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;    
+    color: #2196F3;
+}
+.tel    {
+    display: flex;
+    margin-left: 50px;
+}
+.nav-tel-link {
+    color: #757575;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;   
+}
+
+
+.main-page {
+    width:auto;
+    height: 600px;
+    background-color: #2F303A;
+}
+.main-items-one {
+    background-color: #2F303A;
+    padding-top: 200px;
+    padding-bottom:200px;
+
+
+}
+.main-words {
+    width: 696px;
+    text-align: center;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    
+    margin: 0 auto 30px;
+}
+.button{
+    margin: 0 auto;
+    display: block;
+    font-weight: 700px;
+    font-size: 16px;
+    line-height: 1.87;
+    text-align: center;
+    letter-spacing: 0.06em;
+    color: #FFFFFF;
+    background-color: #2196F3;
+    border-radius: 4px;
+    padding: 10px 32px;
+    border: none;
+}
+.description-items {
+    list-style: none;
+    display: flex;
+    
+}
+h3 {
+    font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.18;
+
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+}
+p {
+    text-align: center;
+    color: #757575;
+}
+.description-one {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.71;
+
+    letter-spacing: 0.03em;
+
+    color: #757575;    
+}
+h2 {
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+
+color: #212121;    
+
+}
+.container-middle{
+    width: 1200px;
+    margin: 0 auto;
+    justify-content: space-between;
+    
+
+}
+.middle {
+    background-color: #F5F4FA;
+}
+.works-img {
+    list-style: none;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    
+}
+
+.command_items {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+footer {
+    background-color: #2F303A;
+    padding: 60px 0;
+
+}
+.logo-last {
+    font-family: Raleway;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 1.19;
+    letter-spacing: 0.03em;
+    text-decoration: none;
+    color: #2196F3;
+    display: block;
+    margin-bottom: 20px ;
+}
+address {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.71;    
+    letter-spacing: 0.03em;
+    color: #FFFFFF;
+    margin-bottom: 10px;
+}
+li {
+    list-style: none;
+}
+.foot-mail {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.71;
+    color: rgba(255, 255, 255, 0.6);
+    margin-bottom: 9px;
+}
+.foot-tel {
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 1.71;    
+
+    color: rgba(255, 255, 255, 0.6);
+
+}
+.logo-second {
+font-weight: bold;
+font-size: 26px;
+line-height: 1.19;
+color: #FFFFFF;
+}
+.mail-one {
+    margin-bottom: 9px;
+}
+
+
+
+
