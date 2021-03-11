@@ -141,44 +141,28 @@ a { text-decoration: none;
     justify-content: space-between;
     
 }
-h3 {
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.18;
-    
-    letter-spacing: 0.03em;
 
-    color: #212121;
-}
-.desc-item-one {
-    text-transform: uppercase;
+.services {
+    font-family: roboto;
     font-style: normal;
     font-weight: bold;
     font-size: 14px;
-    line-height: 16px;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    
-    color: #212121;
-
+    line-height: 16px;    
 }
 
 h4 {
     color: #757575;
 }
 .description-one {
-    width: 270px;
-    height: 75px;
+    font-family: Roboto;
     font-style: normal;
     font-weight: normal;
+    width: 270px;
+    height: 75px;
     font-size: 14px;
-    line-height: 1.71;
+    line-height: 24px;    
     margin: 0 auto;
 
-    letter-spacing: 0.03em;
-
-    color: #757575;    
 }
 h2 {
     text-align: center;
@@ -218,6 +202,14 @@ color: #212121;
     list-style: none;
     display: flex;
     justify-content: space-between;
+}
+.identity {
+    color: #757575;
+    text-align: center;
+}
+.workers {
+    text-align: center;
+    font-weight: bold;
 }
 footer {
     background-color: #2F303A;
